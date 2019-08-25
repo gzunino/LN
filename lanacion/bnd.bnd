@@ -1,0 +1,14 @@
+-include: https://dl.maketechnology.io/framework/rls/equoapp-0.1.5.bnd
+Bundle-Version: 0.1.0
+Private-Package: lanacion
+# Application Name
+appName=LaNacion
+# The organization Name
+owner=guille
+# Application background color
+bgColor=#FF0000
+# Main Application logo
+logo=resources/images/logo.png
+# Username and password to connect to the Equo Platform. For example for analytics
+equoUsername='YWRtaW4='
+equoPassword=bHVzaXRhbm8yMDE4
